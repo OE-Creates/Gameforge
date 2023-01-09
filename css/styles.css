@@ -1,0 +1,191 @@
+@font-face {
+  font-family: "mainFont";
+  src: url("../fonts/Dosis-Book.ttf") format("truetype");
+}
+
+body
+{
+	background-image: linear-gradient(90deg, #29323c 10%, #485563 100%);
+	font-family: "mainFont";
+	font-size: 0.75em;
+}
+
+.box-shadow
+{
+    box-shadow: 2px 2px 4px 1px #3F3F3F;
+  	-webkit-box-shadow: 2px 2px 4px 1px #3F3F3F;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /*background: #f1f1f1;*/
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.custom_border_radius_5
+{
+	border-radius: 5px;
+}
+
+.custom_navbar_space
+{
+	height: 65px;
+}
+
+.custom_div_height_150
+{
+	height: 150px;
+}
+
+.custom_div_height_250
+{
+	height: 250px;
+}
+
+.custom_div_height_300
+{
+	height: 300px;
+}
+
+.custom_div_height_400
+{
+	height: 400px;
+}
+
+.custom_div_height_500
+{
+	height: 500px;
+}
+
+.custom_div_height_750
+{
+	height: 750px;
+}
+
+.custom_div_height_800
+{
+	height: 800px;
+}
+
+.custom_div_height_900
+{
+	height: 900px;
+}
+
+.custom_card_min_width
+{
+	min-width: 12rem;
+}
+
+.custom_card_max_width
+{
+	max-width: 12rem;
+}
+
+.custom_card_min_height
+{
+	min-height: 5rem;
+}
+
+.custom_card_max_height
+{
+	max-height: 5rem;
+}
+
+.custom_div_overflow_x
+{
+	overflow-x: auto;
+}
+
+.custom_div_overflow_y
+{
+	overflow-y: auto;
+}
+
+.custom_btn_opacity_35
+{
+	opacity: 35%;
+}
+
+.custom_btn_opacity_35:hover
+{
+	opacity: 100%;
+}
+
+.custom_colored_text_primary
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #0D6EFD;
+}
+
+.custom_colored_text_secondary
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #6C757D;
+}
+
+.custom_colored_text_warning
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #FFC107;
+}
+
+.custom_colored_text_danger
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #DC3545;
+}
+
+.custom_colored_text_success
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #198754;
+}
+
+.custom_colored_text_info
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #0DCAF0;
+}
+
+.custom_colored_text_light
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #F8F9FA;
+}
+
+.custom_colored_text_dark
+{
+cursor: default;
+pointer-events: none;
+text-decoration: none;
+color: #212529;
+}
