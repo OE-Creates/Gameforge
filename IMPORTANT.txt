@@ -1,0 +1,13 @@
+Step 1: Rename "index.php" to "index-BAK.php"
+
+Step 2: Rename "firstrun.php" to "index.php"
+
+Step 3: Load GameForge through XAMPP
+
+Step 4: Exit GameForge through XAMPP
+
+Step 5: Rename "index.php" to "firstrun.php"
+
+Step 6: Rename "index-BAK.php" to "index.php"
+
+Step 7: Load GameForge through XAMPP
